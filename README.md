@@ -1,4 +1,4 @@
-# calc
+
 
 A command-line scientific calculator in a single C++17 file, with no dependencies beyond the standard library. It runs as an interactive prompt, evaluates expressions passed as arguments, or reads them from a pipe.
 
